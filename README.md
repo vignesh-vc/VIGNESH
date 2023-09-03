@@ -1,3 +1,10 @@
+<h1>HI THERE! I'M Vignesh</h1>
+style{
+h1{text-align:center;
+}
+}
+
+
 # 💫 About Me:
 ⭐ Software engineering student pursuing at B.Tech-Information Technology<br>⭐ Passionate about programming and applying logical thinking<br>⭐ Focused on learning full stack development<br>⭐ Proficient in multiple programming languages<br>⭐ Strong problem-solving skills<br>⭐ Eager to collaborate on innovative projects and contribute to the open-source community
 
