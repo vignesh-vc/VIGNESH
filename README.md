@@ -1,4 +1,4 @@
-<h1 align="center">HI THERE! I'M Vignesh</h1>
+<h1 align="center">HI THERE!<span color=pink;>I'M Vignesh</span> </h1>
 
 
 
