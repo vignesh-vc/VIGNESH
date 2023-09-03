@@ -15,4 +15,4 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 
 
-[![](https://visitcount.itsvg.in/api?id=vignesh-vc&icon=5&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VIGNESH&icon=5&color=11)](https://visitcount.itsvg.in)
