@@ -1,8 +1,5 @@
-<h1>HI THERE! I'M Vignesh</h1>
-style{
-h1{text-align:center;
-}
-}
+<h1 align="center">HI THERE! I'M Vignesh</h1>
+
 
 
 # 💫 About Me:
