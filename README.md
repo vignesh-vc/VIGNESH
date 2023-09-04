@@ -1,4 +1,4 @@
-![logo](banner.png)
+![logo](Banner.png)
 <h1 align="center">Hi 👋 I'M Vignesh</h1>
 
 # 💫 About Me:
