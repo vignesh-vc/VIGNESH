@@ -1,5 +1,11 @@
 ![logo](Banner.png)
-<h1 align="center">Hi 👋 I'M Vignesh</h1>
+<h1 align="center"> Hi 👋🏻, I'm Vignesh</br> 
+</h1>
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
+
+ <a href="https://vignesh-vc.github.io/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/vignesh-c-136bb9219/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 
 # 💫 About Me:
 ⭐ Software engineering student pursuing at B.Tech-Information Technology<br>⭐ Passionate about programming and applying logical thinking<br>⭐ Focused on learning full stack development<br>⭐ Proficient in multiple programming languages<br>⭐ Strong problem-solving skills<br>⭐ Eager to collaborate on innovative projects and contribute to the open-source community
@@ -24,7 +30,15 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-![](https://visitcount.itsvg.in/api?id=vignesh-vc&icon=8)
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
 
 
 
