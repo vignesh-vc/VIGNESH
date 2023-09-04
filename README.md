@@ -1,4 +1,4 @@
-<h1 align="center">HI THERE I'M Vignesh</h1>
+<h1 align="center">HI https://icons8.com/icon/1H52efUsDX7A/waving-hand-emoji I'M Vignesh</h1>
 
 # 💫 About Me:
 ⭐ Software engineering student pursuing at B.Tech-Information Technology<br>⭐ Passionate about programming and applying logical thinking<br>⭐ Focused on learning full stack development<br>⭐ Proficient in multiple programming languages<br>⭐ Strong problem-solving skills<br>⭐ Eager to collaborate on innovative projects and contribute to the open-source community
