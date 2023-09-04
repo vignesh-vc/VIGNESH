@@ -25,5 +25,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=vignesh-vc&icon=5&color=11)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=vignesh-vc&label=Profile%20views&color=pink&style=flat"/> </p>
+
 
 
